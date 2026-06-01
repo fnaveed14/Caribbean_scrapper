@@ -1,0 +1,23 @@
+[
+  {
+    "run_at": "2026-04-20T19:54:01.270289",
+    "n_sources": 41,
+    "n_updated": 1,
+    "n_check": 2,
+    "n_error": 37
+  },
+  {
+    "run_at": "2026-04-20T19:56:30.562757",
+    "n_sources": 41,
+    "n_updated": 1,
+    "n_check": 2,
+    "n_error": 37
+  },
+  {
+    "run_at": "2026-06-01T15:03:31.804515",
+    "n_sources": 41,
+    "n_updated": 1,
+    "n_check": 2,
+    "n_error": 37
+  }
+]

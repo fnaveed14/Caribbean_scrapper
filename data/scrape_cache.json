@@ -1,0 +1,1120 @@
+{
+  "undesa_migrant_stock": {
+    "id": "undesa_migrant_stock",
+    "url": "https://www.un.org/development/desa/pd/content/international-migrant-stock",
+    "label": "UNDESA International Migrant Stock",
+    "theme": "Migrant Stocks & Demographics",
+    "countries": [
+      "ALL"
+    ],
+    "source_org": "UNDESA",
+    "data_fields": [
+      "Total Migrant Stock",
+      "Male",
+      "Female",
+      "Net Migration"
+    ],
+    "notes": "Global estimates; look for the 2024 revision release.",
+    "scraped_at": "2026-06-01T15:01:51.797328",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='www.un.org', port=443): Max retries exceeded with url:"
+  },
+  "cbs_aruba_population": {
+    "id": "cbs_aruba_population",
+    "url": "https://cbs.aw/wp/index.php/category/population/",
+    "label": "CBS Aruba \u2014 Population & Migration Tables",
+    "theme": "Migrant Stocks & Demographics",
+    "countries": [
+      "Aruba"
+    ],
+    "source_org": "CBS Aruba",
+    "data_fields": [
+      "Total Migrant Stock",
+      "Male",
+      "Female",
+      "Children 0-19",
+      "Elderly >60"
+    ],
+    "notes": "Annual population tables incl. foreign-born by nationality and sex.",
+    "scraped_at": "2026-06-01T15:01:53.648289",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='cbs.aw', port=443): Max retries exceeded with url: /wp"
+  },
+  "stats_barbados_census": {
+    "id": "stats_barbados_census",
+    "url": "https://stats.gov.bb/",
+    "label": "Barbados Statistical Service \u2014 Census 2020",
+    "theme": "Migrant Stocks & Demographics",
+    "countries": [
+      "Barbados"
+    ],
+    "source_org": "Barbados Statistical Service",
+    "data_fields": [
+      "Total Migrant Stock",
+      "Male",
+      "Female"
+    ],
+    "notes": "2020 census published 2024; contains foreign-born population by CoB.",
+    "scraped_at": "2026-06-01T15:01:55.745890",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='stats.gov.bb', port=443): Max retries exceeded with ur"
+  },
+  "sib_belize_census": {
+    "id": "sib_belize_census",
+    "url": "https://sib.org.bz/census/2022-census/",
+    "label": "SIB Belize \u2014 2022 Population & Housing Census",
+    "theme": "Migrant Stocks & Demographics",
+    "countries": [
+      "Belize"
+    ],
+    "source_org": "Statistical Institute of Belize",
+    "data_fields": [
+      "Total Migrant Stock",
+      "Male",
+      "Female"
+    ],
+    "notes": "2022 census fully published; includes migration tables.",
+    "scraped_at": "2026-06-01T15:02:09.297130",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='sib.org.bz', port=443): Max retries exceeded with url:"
+  },
+  "cbs_curacao_population": {
+    "id": "cbs_curacao_population",
+    "url": "https://www.cbs.cw/publications/population",
+    "label": "CBS Cura\u00e7ao \u2014 Population by Nationality (SIM)",
+    "theme": "Migrant Stocks & Demographics",
+    "countries": [
+      "Cura\u00e7ao"
+    ],
+    "source_org": "CBS Cura\u00e7ao",
+    "data_fields": [
+      "Total Migrant Stock",
+      "Male",
+      "Female"
+    ],
+    "notes": "SIM register data; annual updates. Check for 2024 edition.",
+    "scraped_at": "2026-06-01T15:02:11.090648",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='www.cbs.cw', port=443): Max retries exceeded with url:"
+  },
+  "eso_cayman_population": {
+    "id": "eso_cayman_population",
+    "url": "https://www.eso.ky/",
+    "label": "ESO Cayman Islands \u2014 Population Statistics",
+    "theme": "Migrant Stocks & Demographics",
+    "countries": [
+      "Cayman Islands"
+    ],
+    "source_org": "Economics and Statistics Office (Cayman)",
+    "data_fields": [
+      "Total Migrant Stock",
+      "Total Population in latest Census"
+    ],
+    "notes": "ESO publishes annual population statistics including residents by nationality.",
+    "scraped_at": "2026-06-01T15:02:12.896717",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='www.eso.ky', port=443): Max retries exceeded with url:"
+  },
+  "stats_jamaica": {
+    "id": "stats_jamaica",
+    "url": "https://statinja.gov.jm/",
+    "label": "STATIN Jamaica \u2014 Population & Migration",
+    "theme": "Migrant Stocks & Demographics",
+    "countries": [
+      "Jamaica"
+    ],
+    "source_org": "STATIN Jamaica",
+    "data_fields": [
+      "Total Migrant Stock",
+      "Net Migration"
+    ],
+    "notes": "Jamaica 2022 census \u2014 check for final migration tables.",
+    "scraped_at": "2026-06-01T15:02:14.539979",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='statinja.gov.jm', port=443): Max retries exceeded with"
+  },
+  "stats_bahamas": {
+    "id": "stats_bahamas",
+    "url": "https://statistics.bahamas.gov.bs/",
+    "label": "Department of Statistics Bahamas",
+    "theme": "Migrant Stocks & Demographics",
+    "countries": [
+      "The Bahamas"
+    ],
+    "source_org": "Dept. of Statistics Bahamas",
+    "data_fields": [
+      "Total Migrant Stock",
+      "Total Population in latest Census"
+    ],
+    "notes": "2022 census conducted; check for migration tables.",
+    "scraped_at": "2026-06-01T15:02:20.022476",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='statistics.bahamas.gov.bs', port=443): Max retries exc"
+  },
+  "cso_tt": {
+    "id": "cso_tt",
+    "url": "https://cso.gov.tt/",
+    "label": "CSO Trinidad and Tobago",
+    "theme": "Migrant Stocks & Demographics",
+    "countries": [
+      "Trinidad and Tobago"
+    ],
+    "source_org": "CSO Trinidad and Tobago",
+    "data_fields": [
+      "Total Migrant Stock",
+      "Net Migration",
+      "Total Population in latest Census"
+    ],
+    "notes": "Census and continuous population data.",
+    "scraped_at": "2026-06-01T15:02:22.881708",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='cso.gov.tt', port=443): Max retries exceeded with url:"
+  },
+  "abs_suriname": {
+    "id": "abs_suriname",
+    "url": "https://www.statistics-suriname.org/",
+    "label": "ABS Suriname \u2014 Population Statistics",
+    "theme": "Migrant Stocks & Demographics",
+    "countries": [
+      "Suriname"
+    ],
+    "source_org": "ABS Suriname",
+    "data_fields": [
+      "Total Migrant Stock",
+      "Net Migration"
+    ],
+    "notes": "Check for 2022/23 population data.",
+    "scraped_at": "2026-06-01T15:02:25.066078",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='statistics-suriname.org', port=443): Max retries excee"
+  },
+  "cbs_nl_bes": {
+    "id": "cbs_nl_bes",
+    "url": "https://www.cbs.nl/en-gb/our-services/methods/definitions/bes-islands",
+    "label": "CBS Netherlands \u2014 BES Islands Statistics",
+    "theme": "Migrant Stocks & Demographics",
+    "countries": [
+      "Saba",
+      "Sint Eustatius"
+    ],
+    "source_org": "CBS Netherlands",
+    "data_fields": [
+      "Total Migrant Stock",
+      "Total Population in latest Census"
+    ],
+    "notes": "Saba and Sint Eustatius statistics covered by CBS Netherlands.",
+    "scraped_at": "2026-06-01T15:02:28.421326",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='www.cbs.nl', port=443): Max retries exceeded with url:"
+  },
+  "worldbank_population": {
+    "id": "worldbank_population",
+    "url": "https://databank.worldbank.org/source/population-estimates-and-projections",
+    "label": "World Bank \u2014 Population Estimates & Projections",
+    "theme": "Migrant Stocks & Demographics",
+    "countries": [
+      "ALL"
+    ],
+    "source_org": "World Bank",
+    "data_fields": [
+      "Total Population in latest Census",
+      "Net Migration"
+    ],
+    "notes": "Cross-check population denominators for % calculations.",
+    "scraped_at": "2026-06-01T15:02:30.228194",
+    "status": "check",
+    "http_code": 200,
+    "matched_patterns": [
+      "population"
+    ],
+    "page_title": "Population estimates and projections | DataBank",
+    "snippet": "Population estimates and projections | DataBank Help us improve this section of the site. Can we get your feedback? Click here Sign In WB Staff Login Public Login DataBank Population estimates and projections Table Chart Map Metadata Download options Excel CSV Tabbed TXT Data on this page only - for",
+    "content_hash": "84b8cc94a573b6aaaf1be18db23256f1",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": null
+  },
+  "unhcr_refugee_stats": {
+    "id": "unhcr_refugee_stats",
+    "url": "https://www.unhcr.org/refugee-statistics/",
+    "label": "UNHCR Refugee Statistics Portal \u2014 All Caribbean",
+    "theme": "Vulnerable Populations",
+    "countries": [
+      "ALL"
+    ],
+    "source_org": "UNHCR",
+    "data_fields": [
+      "Refugees and Asylum Seekers (UNHCR)",
+      "Male",
+      "Female",
+      "Children <18"
+    ],
+    "notes": "Filter by country of asylum for each territory. Updates mid-year and end-year.",
+    "scraped_at": "2026-06-01T15:02:32.529768",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='www.unhcr.org', port=443): Max retries exceeded with u"
+  },
+  "r4v_platform": {
+    "id": "r4v_platform",
+    "url": "https://www.r4v.info/en",
+    "label": "R4V \u2014 Venezuelan Refugees & Migrants in the Region",
+    "theme": "Vulnerable Populations",
+    "countries": [
+      "Aruba",
+      "Cura\u00e7ao",
+      "Trinidad and Tobago",
+      "Guyana",
+      "Belize",
+      "Barbados",
+      "Sint Maarten",
+      "Suriname"
+    ],
+    "source_org": "R4V Platform",
+    "data_fields": [
+      "R4V (only for Venezuela)",
+      "Total Number of Vulnerable Populations"
+    ],
+    "notes": "R4V updates quarterly. Check for latest Caribbean-specific factsheet.",
+    "scraped_at": "2026-06-01T15:02:34.180464",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='www.r4v.info', port=443): Max retries exceeded with ur"
+  },
+  "dtm_iom_caribbean": {
+    "id": "dtm_iom_caribbean",
+    "url": "https://dtm.iom.int/latin-america-and-caribbean",
+    "label": "IOM DTM \u2014 Latin America and Caribbean",
+    "theme": "Vulnerable Populations",
+    "countries": [
+      "Trinidad and Tobago",
+      "Guyana",
+      "Sint Maarten",
+      "Suriname",
+      "Belize",
+      "Jamaica"
+    ],
+    "source_org": "IOM DTM",
+    "data_fields": [
+      "Total Number of Vulnerable Populations",
+      "Government Data"
+    ],
+    "notes": "DTM mobility tracking reports for the Caribbean sub-region.",
+    "scraped_at": "2026-06-01T15:02:35.909408",
+    "status": "blocked",
+    "http_code": 403,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "HTTP 403 \u2014 site blocked automated requests"
+  },
+  "unhcr_tt": {
+    "id": "unhcr_tt",
+    "url": "https://www.unhcr.org/countries/trinidad-and-tobago",
+    "label": "UNHCR Trinidad and Tobago Country Page",
+    "theme": "Vulnerable Populations",
+    "countries": [
+      "Trinidad and Tobago"
+    ],
+    "source_org": "UNHCR",
+    "data_fields": [
+      "Refugees and Asylum Seekers (UNHCR)",
+      "R4V (only for Venezuela)"
+    ],
+    "notes": "Largest Venezuelan population in Caribbean; UNHCR publishes detailed T&T data.",
+    "scraped_at": "2026-06-01T15:02:37.688781",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='www.unhcr.org', port=443): Max retries exceeded with u"
+  },
+  "unhcr_guyana": {
+    "id": "unhcr_guyana",
+    "url": "https://www.unhcr.org/countries/guyana",
+    "label": "UNHCR Guyana Country Page",
+    "theme": "Vulnerable Populations",
+    "countries": [
+      "Guyana"
+    ],
+    "source_org": "UNHCR",
+    "data_fields": [
+      "Refugees and Asylum Seekers (UNHCR)"
+    ],
+    "notes": "Check for updated 2024 data.",
+    "scraped_at": "2026-06-01T15:02:38.847878",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='www.unhcr.org', port=443): Max retries exceeded with u"
+  },
+  "cbs_aruba_migration_flows": {
+    "id": "cbs_aruba_migration_flows",
+    "url": "https://cbs.aw/wp/index.php/category/population/",
+    "label": "CBS Aruba \u2014 Immigration & Emigration by Country of Birth/Sex",
+    "theme": "Intraregional Mobility",
+    "countries": [
+      "Aruba"
+    ],
+    "source_org": "CBS Aruba",
+    "data_fields": [
+      "Emigration",
+      "Male-Emigrants",
+      "Female-Emigrants",
+      "Immigration",
+      "Male-Immigrants",
+      "Female-Immigrants"
+    ],
+    "notes": "CBS Aruba publishes quarterly and annual immigration/emigration tables.",
+    "scraped_at": "2026-06-01T15:02:40.001098",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='cbs.aw', port=443): Max retries exceeded with url: /wp"
+  },
+  "cbs_curacao_mobility": {
+    "id": "cbs_curacao_mobility",
+    "url": "https://www.cbs.cw/publications/population",
+    "label": "CBS Cura\u00e7ao \u2014 Emigration & Immigration by Country",
+    "theme": "Intraregional Mobility",
+    "countries": [
+      "Cura\u00e7ao"
+    ],
+    "source_org": "CBS Cura\u00e7ao",
+    "data_fields": [
+      "Emigration",
+      "Male-Emigrants",
+      "Female-Emigrants",
+      "Immigration",
+      "Male-Immigrants",
+      "Female-Immigrants"
+    ],
+    "notes": "Data last available to 2019 in prior round. Check for 2020\u20132024 updates.",
+    "scraped_at": "2026-06-01T15:02:41.405536",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='www.cbs.cw', port=443): Max retries exceeded with url:"
+  },
+  "undesa_bilateral": {
+    "id": "undesa_bilateral",
+    "url": "https://www.un.org/development/desa/pd/content/international-migrant-stock",
+    "label": "UNDESA \u2014 Bilateral Migration Stock Data",
+    "theme": "Intraregional Mobility",
+    "countries": [
+      "ALL"
+    ],
+    "source_org": "UNDESA",
+    "data_fields": [
+      "Emigration",
+      "Immigration"
+    ],
+    "notes": "Bilateral stock data can proxy flow patterns for countries without flow data.",
+    "scraped_at": "2026-06-01T15:02:42.559412",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='www.un.org', port=443): Max retries exceeded with url:"
+  },
+  "idb_migration_permits": {
+    "id": "idb_migration_permits",
+    "url": "https://publications.iadb.org/en/migration-flows-latin-america-caribbean-statistics-permits-migrants",
+    "label": "IDB \u2014 Migration Flows in LAC: Statistics on Permits",
+    "theme": "Intraregional Mobility",
+    "countries": [
+      "ALL"
+    ],
+    "source_org": "Inter-American Development Bank",
+    "data_fields": [
+      "Immigration"
+    ],
+    "notes": "IDB updates this series annually \u2014 check for 2024/2025 edition.",
+    "scraped_at": "2026-06-01T15:02:44.090010",
+    "status": "blocked",
+    "http_code": 403,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "HTTP 403 \u2014 site blocked automated requests"
+  },
+  "knomad_remittance_brief": {
+    "id": "knomad_remittance_brief",
+    "url": "https://www.knomad.org/publication/migration-development-brief",
+    "label": "World Bank KNOMAD \u2014 Migration & Development Brief (latest)",
+    "theme": "Remittances",
+    "countries": [
+      "ALL"
+    ],
+    "source_org": "World Bank KNOMAD",
+    "data_fields": [
+      "Inflows (US$ million)",
+      "Outflows (US$ million)",
+      "Inflows % of GDP",
+      "Outflows % of GDP"
+    ],
+    "notes": "Brief 42 expected mid-2025 covering 2024 data. Download the Excel file.",
+    "scraped_at": "2026-06-01T15:02:45.701202",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='www.knomad.org', port=443): Max retries exceeded with "
+  },
+  "idb_remittances_lac": {
+    "id": "idb_remittances_lac",
+    "url": "https://publications.iadb.org/en/remittances-latin-america-and-caribbean-2024",
+    "label": "IDB \u2014 Remittances to Latin America and the Caribbean 2024",
+    "theme": "Remittances",
+    "countries": [
+      "ALL"
+    ],
+    "source_org": "Inter-American Development Bank",
+    "data_fields": [
+      "Inflows (US$ million)"
+    ],
+    "notes": "IDB publishes annual LAC remittances report covering Caribbean territories.",
+    "scraped_at": "2026-06-01T15:02:47.235189",
+    "status": "blocked",
+    "http_code": 403,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "HTTP 403 \u2014 site blocked automated requests"
+  },
+  "eccb_bop": {
+    "id": "eccb_bop",
+    "url": "https://www.eccb-centralbank.org/statistics",
+    "label": "Eastern Caribbean Central Bank \u2014 Balance of Payments",
+    "theme": "Remittances",
+    "countries": [
+      "Antigua and Barbuda",
+      "Dominica",
+      "Grenada",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines"
+    ],
+    "source_org": "ECCB",
+    "data_fields": [
+      "Inflows (US$ million)",
+      "Outflows (US$ million)"
+    ],
+    "notes": "ECCB covers all OECS members \u2014 one-stop source for remittance flows.",
+    "scraped_at": "2026-06-01T15:02:48.628457",
+    "status": "updated",
+    "http_code": 200,
+    "matched_patterns": [
+      "2024",
+      "2025",
+      "balance of payments"
+    ],
+    "page_title": "Statistics - Eastern Caribbean Central Bank",
+    "snippet": "Statistics - Eastern Caribbean Central Bank Use the latest browser recommended by Microsoft Get speed, security and privacy with Microsoft Edge Close Launch now ECCB Blog FAQs Vacancies Phone: \n                                    (869) 465-2537 Fax:",
+    "content_hash": "1b62c85f0adab6fef6d5338a72685e74",
+    "hash_changed": false,
+    "new_year_detected": true,
+    "detected_years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "error": null
+  },
+  "boj_remittances": {
+    "id": "boj_remittances",
+    "url": "https://boj.org.jm/statistics/external-sector/",
+    "label": "Bank of Jamaica \u2014 Remittance Statistics 2024",
+    "theme": "Remittances",
+    "countries": [
+      "Jamaica"
+    ],
+    "source_org": "Bank of Jamaica",
+    "data_fields": [
+      "Inflows (US$ million)"
+    ],
+    "notes": "BOJ publishes monthly and annual remittance data. Jamaica is top recipient.",
+    "scraped_at": "2026-06-01T15:02:52.213220",
+    "status": "check",
+    "http_code": 200,
+    "matched_patterns": [
+      "2024",
+      "remittances"
+    ],
+    "page_title": "External Sector \u00bb Bank of Jamaica",
+    "snippet": "External Sector \u00bb Bank of Jamaica Skip to content MENU MENU MENU MENU About BOJ The Bank Role and Functions The Governor History Our Location Money Museum Legislation Operating BOJ Accounts Tenders FAQs Contact Corporate Governance Board of Directors Board Committees Statutory Committees Management",
+    "content_hash": "18ba143ebc3718207bf42d9549b7a7cc",
+    "hash_changed": true,
+    "new_year_detected": true,
+    "detected_years": [
+      "2024"
+    ],
+    "error": null
+  },
+  "central_bank_barbados": {
+    "id": "central_bank_barbados",
+    "url": "https://www.centralbank.org.bb/statistics",
+    "label": "Central Bank of Barbados \u2014 Balance of Payments",
+    "theme": "Remittances",
+    "countries": [
+      "Barbados"
+    ],
+    "source_org": "Central Bank of Barbados",
+    "data_fields": [
+      "Inflows (US$ million)",
+      "Outflows (US$ million)"
+    ],
+    "notes": "Official source for remittance flows.",
+    "scraped_at": "2026-06-01T15:02:56.561318",
+    "status": "error",
+    "http_code": 404,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "HTTP 404"
+  },
+  "central_bank_belize": {
+    "id": "central_bank_belize",
+    "url": "https://www.centralbank.org.bz/statistics",
+    "label": "Central Bank of Belize \u2014 Balance of Payments 2024",
+    "theme": "Remittances",
+    "countries": [
+      "Belize"
+    ],
+    "source_org": "Central Bank of Belize",
+    "data_fields": [
+      "Inflows (US$ million)",
+      "Outflows (US$ million)"
+    ],
+    "notes": "Official BOP data including remittances.",
+    "scraped_at": "2026-06-01T15:02:59.386503",
+    "status": "error",
+    "http_code": 404,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "HTTP 404"
+  },
+  "cbcs_curacao_sxm": {
+    "id": "cbcs_curacao_sxm",
+    "url": "https://www.centralbank.cw/statistics",
+    "label": "Central Bank Cura\u00e7ao & Sint Maarten \u2014 BOP",
+    "theme": "Remittances",
+    "countries": [
+      "Cura\u00e7ao",
+      "Sint Maarten"
+    ],
+    "source_org": "CBCS",
+    "data_fields": [
+      "Inflows (US$ million)",
+      "Outflows (US$ million)"
+    ],
+    "notes": "CBCS covers both Cura\u00e7ao and Sint Maarten.",
+    "scraped_at": "2026-06-01T15:03:02.718965",
+    "status": "blocked",
+    "http_code": 403,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "HTTP 403 \u2014 site blocked automated requests"
+  },
+  "central_bank_tt": {
+    "id": "central_bank_tt",
+    "url": "https://www.central-bank.org.tt/statistics",
+    "label": "Central Bank of Trinidad and Tobago \u2014 BOP",
+    "theme": "Remittances",
+    "countries": [
+      "Trinidad and Tobago"
+    ],
+    "source_org": "CBTT",
+    "data_fields": [
+      "Inflows (US$ million)",
+      "Outflows (US$ million)"
+    ],
+    "notes": "Official remittances data from balance of payments.",
+    "scraped_at": "2026-06-01T15:03:04.432374",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='www.central-bank.org.tt', port=443): Max retries excee"
+  },
+  "bank_guyana_bop": {
+    "id": "bank_guyana_bop",
+    "url": "https://www.bankofguyana.org.gy/bog/statistics",
+    "label": "Bank of Guyana \u2014 BOP Statistics",
+    "theme": "Remittances",
+    "countries": [
+      "Guyana"
+    ],
+    "source_org": "Bank of Guyana",
+    "data_fields": [
+      "Inflows (US$ million)",
+      "Outflows (US$ million)"
+    ],
+    "notes": "Official remittances data.",
+    "scraped_at": "2026-06-01T15:03:06.650904",
+    "status": "error",
+    "http_code": 404,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "HTTP 404"
+  },
+  "cbtt_bahamas": {
+    "id": "cbtt_bahamas",
+    "url": "https://www.centralbankbahamas.com/statistics",
+    "label": "Central Bank of the Bahamas \u2014 BOP",
+    "theme": "Remittances",
+    "countries": [
+      "The Bahamas"
+    ],
+    "source_org": "Central Bank of the Bahamas",
+    "data_fields": [
+      "Inflows (US$ million)"
+    ],
+    "notes": "Official remittances data.",
+    "scraped_at": "2026-06-01T15:03:09.342867",
+    "status": "no_match",
+    "http_code": 200,
+    "matched_patterns": [],
+    "page_title": "Statistics-Central Bank of the Bahamas",
+    "snippet": "Statistics-Central Bank of the Bahamas JavaScript is not currently enabled in your browser. You must enable JavaScript and reload this page to run it correctly. For a better view on\n                Central Bank of The Bahamas, Update Your Browser. Latest News Latest Publications Quick Links Latest N",
+    "content_hash": "eccf472776356c6504e40f82dfa67067",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": null
+  },
+  "cima_cayman": {
+    "id": "cima_cayman",
+    "url": "https://www.cima.ky/statistics",
+    "label": "Cayman Islands Monetary Authority \u2014 BOP",
+    "theme": "Remittances",
+    "countries": [
+      "Cayman Islands"
+    ],
+    "source_org": "CIMA",
+    "data_fields": [
+      "Outflows (US$ million)"
+    ],
+    "notes": "Cayman Islands has the largest outflow in the dataset (~US$604M).",
+    "scraped_at": "2026-06-01T15:03:13.446194",
+    "status": "error",
+    "http_code": 404,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "HTTP 404"
+  },
+  "cip_antigua": {
+    "id": "cip_antigua",
+    "url": "https://cip.gov.ag/",
+    "label": "Antigua CIP \u2014 Citizenship by Investment Statistics",
+    "theme": "Regular Pathways",
+    "countries": [
+      "Antigua and Barbuda"
+    ],
+    "source_org": "CIP Antigua and Barbuda",
+    "data_fields": [
+      "Total Number of Work Permits",
+      "Country of Origin",
+      "Number of Work Permits by Nationality"
+    ],
+    "notes": "CIP publishes quarterly statistics on applications by country of origin.",
+    "scraped_at": "2026-06-01T15:03:15.543094",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='cip.gov.ag', port=443): Max retries exceeded with url:"
+  },
+  "idb_permits_2024": {
+    "id": "idb_permits_2024",
+    "url": "https://publications.iadb.org/en/migration-flows-latin-america-caribbean-statistics-permits-migrants",
+    "label": "IDB \u2014 Migration Flows LAC: Statistics on Permits 2024",
+    "theme": "Regular Pathways",
+    "countries": [
+      "ALL"
+    ],
+    "source_org": "IDB",
+    "data_fields": [
+      "Total Number of Work Permits",
+      "Residence Permits",
+      "Temporary Residence Permit",
+      "Permanent Residence Permits"
+    ],
+    "notes": "IDB updates this series annually. Check for 2024 edition.",
+    "scraped_at": "2026-06-01T15:03:18.285203",
+    "status": "blocked",
+    "http_code": 403,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "HTTP 403 \u2014 site blocked automated requests"
+  },
+  "sib_belize_labour": {
+    "id": "sib_belize_labour",
+    "url": "https://sib.org.bz/statistics/labour-force/",
+    "label": "SIB Belize \u2014 Labour Force Survey 2024",
+    "theme": "Regular Pathways",
+    "countries": [
+      "Belize"
+    ],
+    "source_org": "Statistical Institute of Belize",
+    "data_fields": [
+      "Total Number of Work Permits",
+      "Male",
+      "Female"
+    ],
+    "notes": "LFS captures work permit holders; annual survey.",
+    "scraped_at": "2026-06-01T15:03:19.680205",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='sib.org.bz', port=443): Max retries exceeded with url:"
+  },
+  "grenada_cbi": {
+    "id": "grenada_cbi",
+    "url": "https://www.finance.gd/",
+    "label": "Grenada CBI \u2014 Citizenship by Investment Statistics",
+    "theme": "Regular Pathways",
+    "countries": [
+      "Grenada"
+    ],
+    "source_org": "Grenada Ministry of Finance",
+    "data_fields": [
+      "Total Number of Work Permits"
+    ],
+    "notes": "Grenada publishes quarterly CBI statistics.",
+    "scraped_at": "2026-06-01T15:03:21.240635",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='www.finance.gd', port=443): Max retries exceeded with "
+  },
+  "ciu_skn": {
+    "id": "ciu_skn",
+    "url": "https://ciu.gov.kn/",
+    "label": "SKN Citizenship by Investment Unit",
+    "theme": "Regular Pathways",
+    "countries": [
+      "Saint Kitts and Nevis"
+    ],
+    "source_org": "SKN CIU",
+    "data_fields": [
+      "Total Number of Work Permits"
+    ],
+    "notes": "Citizenship by Investment Unit publishes statistics.",
+    "scraped_at": "2026-06-01T15:03:23.285835",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='ciu.gov.kn', port=443): Max retries exceeded with url:"
+  },
+  "cip_sl": {
+    "id": "cip_sl",
+    "url": "https://www.cipsaintlucia.com/",
+    "label": "Saint Lucia CIP Statistics",
+    "theme": "Regular Pathways",
+    "countries": [
+      "Saint Lucia"
+    ],
+    "source_org": "Saint Lucia CIP",
+    "data_fields": [
+      "Total Number of Work Permits"
+    ],
+    "notes": "Check for 2024 citizenship investment data.",
+    "scraped_at": "2026-06-01T15:03:25.140154",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='www.cipsaintlucia.com', port=443): Max retries exceede"
+  },
+  "eso_cayman_labour": {
+    "id": "eso_cayman_labour",
+    "url": "https://www.eso.ky/",
+    "label": "ESO Cayman Islands \u2014 Labour Market Report",
+    "theme": "Regular Pathways",
+    "countries": [
+      "Cayman Islands"
+    ],
+    "source_org": "ESO Cayman Islands",
+    "data_fields": [
+      "Total Number of Work Permits",
+      "Male",
+      "Female"
+    ],
+    "notes": "ESO publishes labour market statistics including work permit holders.",
+    "scraped_at": "2026-06-01T15:03:26.788155",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='www.eso.ky', port=443): Max retries exceeded with url:"
+  },
+  "dimas_curacao": {
+    "id": "dimas_curacao",
+    "url": "https://www.gobiernu.cw/dimas",
+    "label": "DIMAS Cura\u00e7ao \u2014 Residence Permits Statistics",
+    "theme": "Regular Pathways",
+    "countries": [
+      "Cura\u00e7ao"
+    ],
+    "source_org": "DIMAS Cura\u00e7ao",
+    "data_fields": [
+      "Residence Permits",
+      "Temporary Residence Permit",
+      "Permanent Residence Permits"
+    ],
+    "notes": "DIMAS is the immigration authority for Cura\u00e7ao.",
+    "scraped_at": "2026-06-01T15:03:28.139387",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='www.gobiernu.cw', port=443): Max retries exceeded with"
+  },
+  "r4v_permits": {
+    "id": "r4v_permits",
+    "url": "https://www.r4v.info/en/permits",
+    "label": "R4V \u2014 Regularisation & Permits for Venezuelans",
+    "theme": "Regular Pathways",
+    "countries": [
+      "ALL"
+    ],
+    "source_org": "R4V",
+    "data_fields": [
+      "Residence Permits",
+      "Temporary Residence Permit"
+    ],
+    "notes": "R4V tracks regularisation pathways for Venezuelan migrants across the region.",
+    "scraped_at": "2026-06-01T15:03:30.103841",
+    "status": "error",
+    "http_code": null,
+    "matched_patterns": [],
+    "page_title": "",
+    "snippet": "",
+    "content_hash": "",
+    "hash_changed": false,
+    "new_year_detected": false,
+    "detected_years": [],
+    "error": "Connection error: HTTPSConnectionPool(host='www.r4v.info', port=443): Max retries exceeded with ur"
+  }
+}
